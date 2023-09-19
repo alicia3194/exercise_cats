@@ -1,0 +1,47 @@
+header{
+    background-color:#786973;
+
+}
+.center{
+    text-align: center;
+}
+table {
+    width: 50%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 8%;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+th {
+    background-color:#857B82;
+    text-align: left;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black
+}
+
+#main_img, img {
+    width: 80%;
+    max-width:100%;
+    text-align: center;
+    margin-block: 5%;
+  }
+
+#video_cat, video{
+    width: 80%;
+    max-width: 100%;
+    margin-block: 2%;
+    text-align:center;
+}
+
+#audio_relax, audio{
+    width: 40%;
+    text-align: center;
+    margin-block: 5%;
+    text-align:right;
+ 
+}
